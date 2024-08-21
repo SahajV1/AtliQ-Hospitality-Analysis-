@@ -4,13 +4,18 @@ Atliq Grands owns multiple five-star hotels across India. They have been in the 
 
 Their revenue management team had decided to hire a 3rd party service provider to provide them insights from their historical data.
 
-**Data Model**
+## Data Model
 
+<img width="334" alt="data_model" src="https://github.com/user-attachments/assets/1afbc22c-f640-4071-8b58-6fbee7a0ddf5">
 
-**Overall Analysis View**
+## Overall Analysis View
 
+<img width="644" alt="overall_view" src="https://github.com/user-attachments/assets/4d3d98a4-46fc-4f55-b45a-252358e91edb">
 
-**Monthly Analysis View**
+## Monthly Analysis View
+
+<img width="646" alt="monthly_view" src="https://github.com/user-attachments/assets/b1653f42-fdb0-4cb6-8612-1067138e20af">
+
 
 ### Learnt things from this Project
 Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analyze.
