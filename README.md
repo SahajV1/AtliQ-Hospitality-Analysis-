@@ -17,7 +17,7 @@ Their revenue management team had decided to hire a 3rd party service provider t
 <img width="646" alt="monthly_view" src="https://github.com/user-attachments/assets/b1653f42-fdb0-4cb6-8612-1067138e20af">
 
 
-### Learnt things from this Project
+## Learnt things from this Project
 Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analyze.
 By referring different cancellation polices followed by different hotels, understood that most of the hotels charge zero fee, only if the booking is cancelled before three months of booking date. If the booking is cancelled after that, the charge range from 60 to 90% of the booking cost.
 Learnt, how to use bookmarks and selection for different purposes.
